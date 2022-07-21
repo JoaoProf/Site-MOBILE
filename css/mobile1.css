@@ -1,0 +1,116 @@
+
+#navibar-contender{
+    margin: 0 none;
+    flex-direction: column;
+}
+.logo img{
+    position: relative;
+   
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    
+}
+#navibar-contender ul{
+    display:inline;
+    margin-bottom: 10px;
+}
+#navebar-itens{
+    position: relative;
+   
+    margin-top: 20px;
+    text-align: center;
+}
+.Galerias-job {
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+#grade.tela1{
+    position: relative;
+    left: 30%;
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+    box-shadow: 0 0 15px rgb(200, 200, 200);
+    background-color: blue;
+    background-image: url("../img/form/fundo-ani.jpg");
+    background-size: cover;
+}
+#grade.tela2{
+    position: relative;
+    left: 30%;
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+    box-shadow: 0 0 15px rgb(200, 200, 200);
+    background-image: url("../img/form/fundo-social.png");
+    background-size: cover;
+}
+#grade.tela3{
+
+    position: relative;
+    left: 30%;
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+    box-shadow: 0 0 15px rgb(200, 200, 200);
+    background-image: url("../img/form/fundo-ensaio.png");
+    background-size: cover;
+}
+#grade.tela4{
+    position: relative;
+    left: 30%;
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+    box-shadow: 0 0 15px rgb(200, 200, 200);
+    background-image: url("../img/form/fundo-aniversario.png");
+    background-size: cover;
+}
+#grade h1{
+    padding-top: 10px;
+    font-size: 15px;
+    color: white;
+}
+#grade img{
+    position: relative;
+}
+
+.box-galeria1 img{
+    position: relative;
+    max-width:70px;
+    max-height:60px;
+    width: auto;
+    height: auto;
+}
+.box-galeria1{
+    padding-top: 30px;
+}
+
+#featues-contender{
+    grid-template-columns: 1fr;
+}
+.feature{
+    
+    margin-top: 15px;
+    text-align: justify;
+}
+#feature-redes{
+    align-items: center;
+    justify-content: center;
+}
+.feature h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+#showcase {
+    width: 100%;
+}
+.feature ul {
+    padding-left: 90px;
+}

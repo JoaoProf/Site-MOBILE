@@ -3,6 +3,10 @@
     padding: 0;
     margin: 0;
 }
+#Showgaleria{
+    width: 100%;
+    background-repeat:  url("/img/fund.png")  no-repeat center center cover;
+}
 #navebar{
     width: 100%;
     background-color: #000000;
@@ -87,5 +91,11 @@ padding: 5px;
     grid-template-columns: repeat(2,1fr);
 }
 .tela1{
+    
+}
+#Showgaleria{
+    background-image: url("../img/form/FUNDOGA.png");
+    background-repeat: no-repeat;
+    background-size:auto;
     
 }
